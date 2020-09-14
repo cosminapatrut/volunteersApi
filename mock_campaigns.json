@@ -208,6 +208,27 @@
     "shortDescription" : "Campanie sponsorizata de Orange",
     "capacity" : 100,
     "enrolledUserCount" : 20
+  },
+    {
+    "uuid": "821c5f65-9325-4a54-afff-7489fffd3c6ab",
+    "name": "Fiecare gest contează",
+    "startDate": "2020-08-01T10:35:06.509Z",
+    "endDate": "2020-10-01T10:35:06.509Z",
+    "address": {
+      "location": {
+        "latitude": "44.4782535",
+        "longitude": "26.1036372"
+      },
+      "cityName": "Bucuresti",
+      "countyName": "Sector 3",
+      "fullAddress": "Bld Magheru 1-7"
+    },
+    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png"],
+    "keywords": "Pentru comunitate",
+    "fullDescription": "Responsabilitatea socială înseamnă pentru noi grijă față de comunitatea din România și convingerea că fiecare gest contează pentru binele acesteia. De aceea, suntem alături de tine mai mult decât oricând și te menținem conectat la tot ce contează pentru tine, în ciuda distanței.",
+    "shortDescription" : "Campanie sponsorizata de Comunitatea din Romania",
+    "capacity" : 200,
+    "enrolledUserCount" : 30
   }
 
 ]
