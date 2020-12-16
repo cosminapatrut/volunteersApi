@@ -1,234 +1,155 @@
-[
-  {
-    "uuid": "821c5f65-9325-4a54-afff-7489ffd3c6ab",
-    "name": "Fiecare gest contează",
-    "startDate": "2019-08-01T10:35:06.509Z",
-    "endDate": "2019-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
+{
+   "content":[
+      {
+         "uuid":"14c61883-a796-4f7f-85de-02d5d55eae2c",
+         "name":"Atelier de construit caleidoscoape colorate",
+         "startDate":"2021-01-30T08:00:00Z",
+         "endDate":"2021-01-30T13:00:00Z",
+         "activityDomain":{
+            "name":"Social",
+            "uuid":"c2d5ae3e-9a92-4d8f-b62f-3907c8fbf86b"
+         },
+         "address":{
+            "cityName":"Bucuresti",
+            "countyName":"Bucuresti",
+            "street":"Strada Tineretului",
+            "postalCode":"00000",
+            "details":"Cafeneaua Actorilor, Parcul Tineretului",
+            "location":{
+               "latitude":0.0,
+               "longitude":0.0
+            }
+         },
+         "pictures":[
+            {
+               "name":"Poza atelier 2",
+               "uri":"https://www-dev.orange.ro/csr-backend/campaign/14c61883-a796-4f7f-85de-02d5d55eae2c/picture/2e95ce35-0b52-4ade-9a9a-2320521e492b"
+            },
+            {
+               "name":"Poza atelier 3",
+               "uri":"https://www-dev.orange.ro/csr-backend/campaign/14c61883-a796-4f7f-85de-02d5d55eae2c/picture/86570c20-9b06-4ada-9850-fdc8b87d42a9"
+            },
+            {
+               "name":"Verona",
+               "uri":"https://www-dev.orange.ro/csr-backend/campaign/14c61883-a796-4f7f-85de-02d5d55eae2c/picture/2b04796b-7ab2-45d8-9c0a-143d1e6a5ef7"
+            }
+         ],
+         "keywords":"",
+         "shortDescription":"Atelier de construit caleidoscoape colorate",
+         "fullDescription":"Atât copiii, cât și seniorii se bucură atunci când petrec timp și se distrează în compania altora, uitând astfel de singurătate. Vrem să îi aducem laolaltă pentru câteva ore, timp în care vor construi împreună caleidoscoape colorate, sub îndrumarea specialiștilor. Avem nevoie de voluntari care să ne ajute cu detaliile organizatorice la fața locului",
+         "capacity":20,
+         "occupancy":0,
+         "ngo":{
+            "name":"barosan",
+            "contact":{
+               "familyName":"name",
+               "givenName":"surname",
+               "phoneNumber":"1234",
+               "email":"cosmina.patrut@orange.com"
+            },
+            "registrationCode":"123",
+            "address":{
+               "cityName":"cityName",
+               "countyName":"countyName",
+               "street":"street",
+               "postalCode":"0000",
+               "details":"ap 3",
+               "location":{
+                  "latitude":0.0,
+                  "longitude":0.0
+               }
+            },
+            "approved":true,
+            "confirmed":true
+         }
       },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png"],
-    "keywords": "Pentru comunitate",
-    "fullDescription": "Responsabilitatea socială înseamnă pentru noi grijă față de comunitatea din România și convingerea că fiecare gest contează pentru binele acesteia. De aceea, suntem alături de tine mai mult decât oricând și te menținem conectat la tot ce contează pentru tine, în ciuda distanței.",
-    "shortDescription" : "Campanie sponsorizata de Comunitatea din Romania",
-    "capacity" : 200,
-    "enrolledUserCount" : 30
-  },
-  {
-    "uuid": "2",
-    "name": "Contribuie și tu cu donații prin SMS",
-    "startDate": "2019-08-01T10:35:06.509Z",
-    "endDate": "2019-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
+      {
+         "uuid":"c780a903-40e2-448a-b0c4-4d2a1e02966f",
+         "name":"Plantăm puieți în Parcul Văcărești din capitală",
+         "startDate":"2021-05-15T08:00:00Z",
+         "endDate":"2021-05-15T13:00:00Z",
+         "activityDomain":{
+            "name":"Mediu",
+            "uuid":"f0552670-f581-4247-b533-6a7863079737"
+         },
+         "address":{
+            "cityName":"Bucuresti",
+            "countyName":"Bucuresti",
+            "street":"Calea Văcărești",
+            "postalCode":"00000",
+            "details":"Parcul Văcărești",
+            "location":{
+               "latitude":0.0,
+               "longitude":0.0
+            }
+         },
+         "pictures":[
+            {
+               "name":"U302279_medium",
+               "uri":"https://www-dev.orange.ro/csr-backend/campaign/c780a903-40e2-448a-b0c4-4d2a1e02966f/picture/8ac5d643-eae4-4ecc-8692-44c5ca16567c"
+            },
+            {
+               "name":"U302094_medium",
+               "uri":"https://www-dev.orange.ro/csr-backend/campaign/c780a903-40e2-448a-b0c4-4d2a1e02966f/picture/dc75c35b-2459-4f17-bb40-56937483f60d"
+            },
+            {
+               "name":"U304213_medium",
+               "uri":"https://www-dev.orange.ro/csr-backend/campaign/c780a903-40e2-448a-b0c4-4d2a1e02966f/picture/32ccab2d-7fa9-4742-ad65-38794109f642"
+            }
+         ],
+         "keywords":"",
+         "shortDescription":"Plantăm puieți în Parcul Văcărești din capitală",
+         "fullDescription":"Primăvara și toamna sunt perioadele cele mai bune pentru plantări, așa că vrem ca și în acest an să dăm o mână de ajutor planetei și să împădurim o zonă fertilă din capitală. 10 hectare din parcul Văcărești sunt pregătite pentru acțiune și își așteaptă voluntarii pentru plantări",
+         "capacity":100,
+         "occupancy":0,
+         "ngo":{
+            "name":"barosan",
+            "contact":{
+               "familyName":"name",
+               "givenName":"surname",
+               "phoneNumber":"1234",
+               "email":"cosmina.patrut@orange.com"
+            },
+            "registrationCode":"123",
+            "address":{
+               "cityName":"cityName",
+               "countyName":"countyName",
+               "street":"street",
+               "postalCode":"0000",
+               "details":"ap 3",
+               "location":{
+                  "latitude":0.0,
+                  "longitude":0.0
+               }
+            },
+            "approved":true,
+            "confirmed":true
+         }
+      }
+   ],
+   "pageable":{
+      "sort":{
+         "sorted":true,
+         "unsorted":false,
+         "empty":false
       },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/03/Header-1.jpg"],
-    "keywords": "Pentru comunitate",
-    "fullDescription": "Zilele acestea, mai mult ca oricând, venim în ajutorul comunității și invităm clienții Orange să se implice la rândul lor și să trimită SMS-uri pentru campaniile umanitare care se desfășoară.",
-    "shortDescription" : "Campanie sponsorizata de Orange",
-    "capacity" : 100,
-    "enrolledUserCount" : 20
-  },
-  {
-    "uuid": "3",
-    "name": "Ediție specială SuperCoders online | Pentru mâine | Orange",
-    "startDate": "2020-08-01T10:35:06.509Z",
-    "endDate": "2020-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
-      },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/03/hdr-supercoders-ilustratie.png"],
-    "keywords": "clean, animals, pet, pets",
-    "fullDescription": "Universul online este un loc ideal pentru a lăsa liberă imaginația copiilor. SuperCoders vine în sprijinul copiilor în această perioadă și îi invită la o serie de ateliere online.",
-    "shortDescription" : "Campanie sponsorizata de SuperCoders",
-    "capacity" : 120,
-    "enrolledUserCount" : 10
-  },
-  {
-    "uuid": "821c5f65-9325-4a54-afff-7489ffd3c6ab3",
-    "name": "Fiecare gest contează",
-    "startDate": "2020-08-01T10:35:06.509Z",
-    "endDate": "2020-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
-      },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png"],
-    "keywords": "Pentru comunitate",
-    "fullDescription": "Responsabilitatea socială înseamnă pentru noi grijă față de comunitatea din România și convingerea că fiecare gest contează pentru binele acesteia. De aceea, suntem alături de tine mai mult decât oricând și te menținem conectat la tot ce contează pentru tine, în ciuda distanței.",
-    "shortDescription" : "Campanie sponsorizata de Comunitatea din Romania",
-    "capacity" : 200,
-    "enrolledUserCount" : 30
-  },
-  {
-    "uuid": "5",
-    "name": "Contribuie și tu cu donații prin SMS",
-    "startDate": "2020-08-01T10:35:06.509Z",
-    "endDate": "2020-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
-      },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png"],
-    "keywords": "Pentru comunitate",
-    "fullDescription": "Zilele acestea, mai mult ca oricând, venim în ajutorul comunității și invităm clienții Orange să se implice la rândul lor și să trimită SMS-uri pentru campaniile umanitare care se desfășoară.",
-    "shortDescription" : "Campanie sponsorizata de Orange",
-    "capacity" : 100,
-    "enrolledUserCount" : 20
-  },
-  {
-    "uuid": "6",
-    "name": "Ediție specială SuperCoders online | Pentru mâine | Orange",
-    "startDate": "2020-08-01T10:35:06.509Z",
-    "endDate": "2020-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
-      },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png"],
-    "keywords": "clean, animals, pet, pets",
-    "fullDescription": "Universul online este un loc ideal pentru a lăsa liberă imaginația copiilor. SuperCoders vine în sprijinul copiilor în această perioadă și îi invită la o serie de ateliere online.",
-    "shortDescription" : "Campanie sponsorizata de SuperCoders",
-    "capacity" : 120,
-    "enrolledUserCount" : 10
-  },
-   {
-    "uuid": "7",
-    "name": "Ediție specială SuperCoders online | Pentru mâine | Orange",
-    "startDate": "2019-08-01T10:35:06.509Z",
-    "endDate": "2019-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
-      },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/03/hdr-supercoders-ilustratie.png"],
-    "keywords": "clean, animals, pet, pets",
-    "fullDescription": "Universul online este un loc ideal pentru a lăsa liberă imaginația copiilor. SuperCoders vine în sprijinul copiilor în această perioadă și îi invită la o serie de ateliere online.",
-    "shortDescription" : "Campanie sponsorizata de SuperCoders",
-    "capacity" : 120,
-    "enrolledUserCount" : 10
-  },
-  {
-    "uuid": "8",
-    "name": "Ediție specială SuperCoders online | Pentru mâine | Orange",
-    "startDate": "2020-08-01T10:35:06.509Z",
-    "endDate": "2020-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
-      },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/03/hdr-supercoders-ilustratie.png"],
-    "keywords": "clean, animals, pet, pets",
-    "fullDescription": "Universul online este un loc ideal pentru a lăsa liberă imaginația copiilor. SuperCoders vine în sprijinul copiilor în această perioadă și îi invită la o serie de ateliere online.",
-    "shortDescription" : "Campanie sponsorizata de SuperCoders",
-    "capacity" : 120,
-    "enrolledUserCount" : 10
-  },
-  {
-    "uuid": "9",
-    "name": "Contribuie și tu cu donații prin SMS",
-    "startDate": "2019-08-01T10:35:06.509Z",
-    "endDate": "2019-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
-      },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/03/Header-1.jpg"],
-    "keywords": "Pentru comunitate",
-    "fullDescription": "Zilele acestea, mai mult ca oricând, venim în ajutorul comunității și invităm clienții Orange să se implice la rândul lor și să trimită SMS-uri pentru campaniile umanitare care se desfășoară.",
-    "shortDescription" : "Campanie sponsorizata de Orange",
-    "capacity" : 100,
-    "enrolledUserCount" : 20
-  },
-  {
-    "uuid": "10",
-    "name": "Contribuie și tu cu donații prin SMS",
-    "startDate": "2020-08-01T10:35:06.509Z",
-    "endDate": "2020-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
-      },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/03/Header-1.jpg"],
-    "keywords": "Pentru comunitate",
-    "fullDescription": "Zilele acestea, mai mult ca oricând, venim în ajutorul comunității și invităm clienții Orange să se implice la rândul lor și să trimită SMS-uri pentru campaniile umanitare care se desfășoară.",
-    "shortDescription" : "Campanie sponsorizata de Orange",
-    "capacity" : 100,
-    "enrolledUserCount" : 20
-  },
-    {
-    "uuid": "821c5f65-9325-4a54-afff-7489fffd3c6ab",
-    "name": "Fiecare gest contează",
-    "startDate": "2020-08-01T10:35:06.509Z",
-    "endDate": "2020-10-01T10:35:06.509Z",
-    "address": {
-      "location": {
-        "latitude": "44.4782535",
-        "longitude": "26.1036372"
-      },
-      "cityName": "Bucuresti",
-      "countyName": "Sector 3",
-      "fullAddress": "Bld Magheru 1-7"
-    },
-    "images": ["https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png","https://responsabilitate-sociala.orange.ro/content/images/2020/04/fiecare-gest-conteaza-1.png"],
-    "keywords": "Pentru comunitate",
-    "fullDescription": "Responsabilitatea socială înseamnă pentru noi grijă față de comunitatea din România și convingerea că fiecare gest contează pentru binele acesteia. De aceea, suntem alături de tine mai mult decât oricând și te menținem conectat la tot ce contează pentru tine, în ciuda distanței.",
-    "shortDescription" : "Campanie sponsorizata de Comunitatea din Romania",
-    "capacity" : 200,
-    "enrolledUserCount" : 30
-  }
-
-]
+      "offset":0,
+      "pageNumber":0,
+      "pageSize":20,
+      "paged":true,
+      "unpaged":false
+   },
+   "last":true,
+   "totalPages":1,
+   "totalElements":2,
+   "size":20,
+   "number":0,
+   "sort":{
+      "sorted":true,
+      "unsorted":false,
+      "empty":false
+   },
+   "numberOfElements":2,
+   "first":true,
+   "empty":false
+}
